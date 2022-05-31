@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Designed by - [Randy Leon](https://github.com/charinwolf) | [LinkedIn](https://www.linkedin.com/in/randy-leon-charinga/) <br />
+Tutorial
+
 ## Available Scripts
 
 In the project directory, you can run:
