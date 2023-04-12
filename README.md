@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Designed by - [Randy Leon](https://github.com/charinwolf) | [LinkedIn](https://www.linkedin.com/in/randy-leon-charinga/) <br />
-Tutorial by - [Code Commerce](https://www.youtube.com/watch?v=UjeXpct3p7M&list=PLiNd0c-6uL0JtfOTNlv1d-AD6SQFDJIJb&index=5)
+
 
 ![WhatsApp Image 2022-05-31 at 4 02 36 PM](https://user-images.githubusercontent.com/76216411/171265485-3597b74c-38f2-4249-9244-7ffe0c188def.jpeg)
 
